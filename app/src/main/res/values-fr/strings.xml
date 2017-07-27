@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titleGenerateGameTextView">Bienvenue</string>
+    <string name="titleGameIdTextView">"ID de jeu : "</string>
+    <string name="generateQRCodeProcessingDialog">Créer QR Code</string>
+    <string name="generateGameProcessingDialog">Créer un nouveau jeu</string>
+    <string name="gameIdTextView">ID de jeu : [ID de jeu]</string>
+    <string name="discriptionGenerateGameTextView">Créer un nouveau jeu.\nEntrez en contact via\nhttp://192.168.2.122:8080/\navec l\'ID de jeu\nou utiliser le code QR.</string>
+</resources>
