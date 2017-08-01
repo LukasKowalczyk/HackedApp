@@ -1,11 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Hacked</string>
-    <string name="titleGenerateGameTextView">Welcome</string>
-    <string name="discriptionGenerateGameTextView">Create a new game.\nSign up at\nhttp://192.168.2.122:8080/\nwith the game ID\nor use the QR code.</string>
-    <string name="titleGameIdTextView">Game-ID : </string>
-    <string name="gameIdTextView">Game-ID : [Game-ID]</string>
-    <string name="generateGameProcessingDialog">Create a new game</string>
-    <string name="generateQRCodeProcessingDialog">Create QR code</string>
-    <string name="hostURL" translatable="false">http://192.168.2.122:8080</string>
-    <string name="helpButton" translatable="false">\?</string>
+    <string name="app_name">Hacked</string>
+    <string name="hostURL" translatable="false">http://hacked.servegame.com:9000</string>
 </resources>
